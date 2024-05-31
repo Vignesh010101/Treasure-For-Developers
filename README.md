@@ -1,13 +1,13 @@
-# free-for-dev
-Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all in order to make informed decisions.
+# Treasure For Developers
+Developers and Open Source authors now have access to a vast array of services with free tiers, but finding and evaluating all of them can be challenging.
 
-This is list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
+This list focuses on software (SaaS, PaaS, IaaS, etc.) and other offerings that provide free tiers beneficial for infrastructure developers, such as System Administrators and DevOps Practitioners.
 
-The scope of this particular list is limited to things infrastructure developers (System Administrator, DevOps Practitioners, etc.) are likely to find useful. We love all the free services out there, but it would be good to keep it on topic. It's a bit of a grey line at times so this is a bit opinionated; do not be offended if I do not accept your contribution.
+The aim is to keep this list relevant to infrastructure developers. While we appreciate all free services, we'll be selective to ensure relevance. If your contribution isn't accepted, please understand it’s a matter of maintaining focus.
 
-You can help by sending Pull Requests to add more services. Once I have a good set of links in this README file, I'll look into a better layout for the information and links (help with that is appreciated too).
+Contributions are welcome! Please send Pull Requests to add more services. Once we have a comprehensive list, we'll work on improving the layout and presentation (help with this is also appreciated).
 
-*NOTE:* This list is only for as-a-Service offerings, not for self hosted software.
+**NOTE:** This list is exclusively for as-a-Service offerings, not for self-hosted software.
 
 Table of Contents
 =================
